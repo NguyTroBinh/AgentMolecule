@@ -1,0 +1,13 @@
+# Các biến môi trường
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database local
+*.db
+
+# Môi trường ảo
+venv/
+.venv/
